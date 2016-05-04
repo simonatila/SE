@@ -56,3 +56,4 @@ def DinerPhilosophes():
     print ("Now we're finishing.")
  
 DinerPhilosophes()
+ 
